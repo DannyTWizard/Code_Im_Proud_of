@@ -1,0 +1,19 @@
+numpy
+scipy
+pandas
+matplotlib
+networkx
+freud-analysis
+mesa
+PyWavelets
+pymoo
+alphashape
+python-louvain
+shapely
+geopandas
+pydantic
+pyzmq
+solara
+# GPU packages (require NVIDIA GPU + CUDA toolkit)
+# cupy-cuda12x
+# cuspatial
